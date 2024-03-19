@@ -1,0 +1,15 @@
+{
+  "name": "learning-backend-from-hitesh-chodhary",
+  "version": "1.0.0",
+  "description": "Learning backend from Hitesh Choudhary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "React"
+  ],
+  "author": "Pranav Singh",
+  "license": "ISC"
+}
